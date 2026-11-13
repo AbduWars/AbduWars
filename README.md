@@ -2,9 +2,9 @@
 
 # ProQuant Analytics
 
-**Quant & risk analytics, business analytics and data engineering.** Rotterdam, NL · remote-first.
+**Quant & risk analytics, business analytics, data engineering and AI automation.** Rotterdam, NL · remote-first.
 
-I turn financial and business data into decisions: independent validation of strategies and models, risk and investor reporting, automated management packs, and the data pipelines underneath. Each project below shows the full package a client receives (report, one-page summary, presentation, Excel workbook and interactive dashboard) on synthetic demo data.
+I turn financial and business data into decisions: independent validation of strategies and models, risk and investor reporting, automated management packs, the data pipelines underneath, and AI agents tested before they go live. Each project below shows the full package a client receives (report, one-page summary, presentation, Excel workbook and interactive dashboard) on synthetic demo data.
 
 [![Website](https://img.shields.io/badge/Website-proquant--analytics.com-0B1F3A?style=for-the-badge)](https://www.proquant-analytics.com) [![Email](https://img.shields.io/badge/Email-info%40proquantanalytics.com-C9A227?style=for-the-badge)](mailto:info@proquantanalytics.com)
 
@@ -44,6 +44,14 @@ I turn financial and business data into decisions: independent validation of str
 <table>
 <tr>
 <td width="33%" valign="top"><a href="https://github.com/AbduWars/proquant-12-data-engineering"><img src="https://raw.githubusercontent.com/AbduWars/proquant-12-data-engineering/main/docs/cover.png" alt="Data Engineering (ETL/ELT & Warehouse)"></a><br><b><a href="https://github.com/AbduWars/proquant-12-data-engineering">12 · Data Engineering (ETL/ELT & Warehouse)</a></b><br><sub>One trusted foundation for a business's data: collected, contract-checked, modelled and served every night.</sub></td>
+</tr>
+</table>
+
+## AI Automation (13)
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/AbduWars/proquant-13-ai-automation-agents"><img src="https://raw.githubusercontent.com/AbduWars/proquant-13-ai-automation-agents/main/docs/cover.png" alt="AI Automation & Agents"></a><br><b><a href="https://github.com/AbduWars/proquant-13-ai-automation-agents">13 · AI Automation & Agents</a></b><br><sub>Which manual work an AI agent can take over safely, measured on your own cases, and installed on your own platform.</sub></td>
 </tr>
 </table>
 
