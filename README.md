@@ -12,24 +12,24 @@ All work is research and measurement, not investment advice. Public case-study p
 
 ## Current service catalogue
 
-The private delivery framework contains 12 connected services. Private templates, operating manuals, intake materials, prompts and source code remain private. The public gallery reports each service's source and validation status; it does not claim twelve completed real-data reports yet.
+The private delivery framework contains 12 connected services. Private templates, operating manuals, intake materials, prompts and source code remain private. The public gallery now contains computed study packages for all 12 services. Each package states its data source, measured outputs, and limitations; studies with hypothetical portfolios or option inputs are labelled as such.
 
 | # | Service | Public study status |
 |---|---|---|
-| 01 | **Market & Macro Monitor** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/01.md) — Treasury source identified; calculations pending |
-| 02 | **Quantitative Company Analysis** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/02.md) — SEC source identified; clean exhibits pending |
-| 03 | **Strategy Research & Backtesting** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/03.md) — method demonstrator; no performance claim |
-| 04 | **Portfolio Construction & Allocation** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/04.md) — numerical results pending |
-| 05 | **Positions, Leverage & Carry** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/05.md) — CFTC aggregate source identified |
-| 06 | **Portfolio Risk & What-if Analysis** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/06.md) — public rates; hypothetical book only |
-| 07 | **Execution Costs & Slippage** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/07.md) — no compatible public order-level dataset verified |
-| 08 | **Performance & Investor Reporting** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/08.md) — no real-fund performance data used |
-| 09 | **Model Validation** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/09.md) — protocol documented; measured results pending |
-| 10 | **Derivatives & Pricing** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/10.md) — hypothetical option inputs only |
-| 11 | **Market Data Platform & Reconciliation** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/11.md) — SEC API workflow; no raw data mirrored |
-| 12 | **AI-assisted Quantitative Research** | [Study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/12.md) — evidence workflow; human review required |
+| 01 | **Market & Macro Monitor** | [Computed Treasury curve study](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/01.md) |
+| 02 | **Quantitative Company Analysis** | [SEC filing analysis: AAPL, MSFT, NVDA](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/02.md) |
+| 03 | **Strategy Research & Backtesting** | [Out-of-sample yield-curve signal test; no strategy P&L claim](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/03.md) |
+| 04 | **Portfolio Construction & Allocation** | [Hypothetical duration-proxy portfolios; out-of-sample comparison](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/04.md) |
+| 05 | **Positions, Leverage & Carry** | [CFTC aggregated futures positioning](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/05.md) |
+| 06 | **Portfolio Risk & What-if Analysis** | [Treasury-based duration proxy; hypothetical positions and shock](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/06.md) |
+| 07 | **Execution Costs & Slippage** | [Cboe Rule 605 summary study; not client fills](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/07.md) |
+| 08 | **Performance & Investor Reporting** | [Hypothetical monthly duration-proxy pack; not a real fund](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/08.md) |
+| 09 | **Model Validation** | [Chronological holdout and baseline comparison](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/09.md) |
+| 10 | **Derivatives & Pricing** | [Observed Treasury rate with hypothetical European option terms](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/10.md) |
+| 11 | **Market Data Platform & Reconciliation** | [Treasury, SEC and CFTC ingestion and data checks](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/11.md) |
+| 12 | **AI-assisted Quantitative Research** | [SEC evidence ledger; deterministic no-LLM fallback](https://github.com/AbduWars/proquant-analytics-case-studies/blob/main/studies/12.md) |
 
-**Browse:** [Public gallery](https://AbduWars.github.io/proquant-analytics-case-studies/) · [Repository and source notes](https://github.com/AbduWars/proquant-analytics-case-studies). Each study states its limits; none represents a client engagement.
+**Browse:** [Public results gallery](https://AbduWars.github.io/proquant-analytics-case-studies/) · [Workbook and downloadable study pack](https://github.com/AbduWars/proquant-analytics-case-studies/tree/main/deliverables) · [Repository and source notes](https://github.com/AbduWars/proquant-analytics-case-studies). None represents a client engagement.
 
 ## Client delivery
 
