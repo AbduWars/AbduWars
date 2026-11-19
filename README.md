@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/banner.png" alt="ProQuant Analytics" width="100%"></p>
+<p align="center"><img src="docs/banner-quant-risk.png" alt="ProQuant Analytics" width="100%"></p>
 
 # ProQuant Analytics
 
