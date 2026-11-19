@@ -2,7 +2,7 @@
 
 # ProQuant Analytics
 
-**Quantitative markets and investment analytics** · Rotterdam, Netherlands · remote-first
+**Quantitative & Risk Analyst** · ProQuant Analytics · Rotterdam, Netherlands · remote-first
 
 Evidence-led research and measurement for investment teams, asset managers, advisers and fintechs: market and company research, strategy testing, portfolio construction, risk, execution costs, performance reporting, model validation, derivatives, and market-data workflows.
 
